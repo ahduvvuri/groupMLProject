@@ -3,3 +3,5 @@ pandas
 spotipy
 tensorflow
 python_decouple
+Librosa
+soundfile
