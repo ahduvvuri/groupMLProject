@@ -3,5 +3,12 @@ pandas
 spotipy
 tensorflow
 python_decouple
-Librosa
+librosa
 soundfile
+AudioSegment
+matplotlib
+os
+pydub
+tqdm
+pickle
+
