@@ -7,8 +7,7 @@ librosa
 soundfile
 AudioSegment
 matplotlib
-os
 pydub
 tqdm
-pickle
+
 
