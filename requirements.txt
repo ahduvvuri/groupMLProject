@@ -9,5 +9,5 @@ AudioSegment
 matplotlib
 pydub
 tqdm
-
+torch
 
